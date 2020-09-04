@@ -11,7 +11,7 @@
     "url": "git+https://github.com/echicken/A4988.git"
   },
   "dependencies": {
-    "pigpio": "~1.2.2"  
+    "pigpio": "^3.2.3"  
   },
   "keywords": [
     "a4988",
